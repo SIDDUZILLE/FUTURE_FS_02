@@ -1,0 +1,10 @@
+{
+  "name": "mini-crm-lead-management",
+  "version": "1.0.0",
+  "description": "Client Lead Management System (Mini CRM)",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "build:client": "npm --prefix client build"
+  }
+}
